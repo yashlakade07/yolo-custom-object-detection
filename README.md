@@ -110,7 +110,3 @@ Thresholds are set in `yolo_predictions.py`:
 
 **Yash Lakade**
 [GitHub](https://github.com/yashlakade07)
-
-## License
-
-Add a license (for example MIT) if you want others to reuse this project.
